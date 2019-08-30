@@ -1,3 +1,4 @@
+
 #include <iostream>
 
 //Re-done by Mikhail Ykavenka via VI editor
@@ -8,3 +9,18 @@ int main() {
 	cout<<"Hello World!\n";
 	return 0;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
